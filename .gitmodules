@@ -1,0 +1,4 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/openhacker/u-boot.git
+	branch = turf-tank
